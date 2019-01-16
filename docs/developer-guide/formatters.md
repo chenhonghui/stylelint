@@ -3,7 +3,7 @@
 A formatter is a function that accepts *an array of these stylelint result objects* and outputs a string:
 
 ```js
-// A stylelint result object
+//一个 stylelint 结果对象
 {
   source:  "path/to/file.css", // The filepath or PostCSS identifier like <input css 1>
   errored: true, // This is `true` if at least one rule with an "error"-level severity triggered a warning
