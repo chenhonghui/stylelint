@@ -1,6 +1,6 @@
 # 编写 formatters
 
-formatter 是一个接受参数为一个数组（里面是stylelint结果对象）然后输出string的格式化函数
+formatter 是一个接受参数为*一个数组里面是stylelint结果对象*然后输出string的格式化函数
 
 ```js
 //一个 stylelint 结果对象
